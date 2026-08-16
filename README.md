@@ -17,3 +17,6 @@ Python, AWS Bedrock, Claude API, MCP, FastMCP, vector databases.
 * `RAG/` retrieval augmented generation pipeline
 * `ProjectMCP/` interactive chat CLI connected to Bedrock via the MCP protocol
 * `Agents/` Python package with document processing tools exposed via an MCP server
+
+## Certification
+AWS credential verification: https://verify.skilljar.com/c/6kmwabgvkwzo
