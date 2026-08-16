@@ -1,0 +1,49 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "68",
+      "goal": "Marathon training - high carbohydrate loading with meals timed around 2-hour morning run",
+      "restrictions": "Vegetarian, no nuts"
+    },
+    "solution_criteria": [
+      "Meal plan covers full day with at least 4 eating occasions timed strategically around training",
+      "Total daily calories and carbohydrate content appropriate for marathon runner endurance needs",
+      "Pre-run and post-run nutrition specified to support performance and recovery",
+      "All meals comply with vegetarian and nut-free restrictions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring high calorie intake and carbohydrate loading, with specific timing around training sessions"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "85 kg",
+      "goal": "Maximize strength and power gains with proper pre/post-workout nutrition timing",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan spans exactly 1 day with 4-5 meals distributed strategically around resistance training",
+      "Includes macronutrient targets appropriate for strength athletes (1.6-2.2g protein per kg bodyweight daily)",
+      "Pre-workout meal contains carbohydrates and moderate protein; post-workout meal prioritizes protein and fast carbs for recovery",
+      "Plan is presented in compact format (under 400 tokens) with clear meal times and basic nutritional content"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) with specific macronutrient ratios and meal timing around resistance training, including recovery nutrition"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "75",
+      "goal": "Soccer player with evening match at 7 PM requiring optimal energy levels, quick recovery between training and game, and minimal digestive discomfort during play",
+      "restrictions": "Shellfish allergy, lactose intolerant"
+    },
+    "solution_criteria": [
+      "Meal plan includes pre-game meal (3-4 hours before 7 PM match) and post-game recovery meal",
+      "All meals avoid shellfish and dairy products",
+      "Provides balanced macronutrients appropriate for a 75kg athlete with sustained energy for evening performance"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport-specific constraint scenario (e.g., swimmer with chlorine sensitivity requiring specific foods, or soccer player with a game in the evening requiring pre-game and post-game meal considerations)"
+  }
+]

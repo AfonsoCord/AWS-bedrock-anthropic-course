@@ -1,0 +1,7 @@
+venv/
+.venv/
+envi/
+.backups/
+1.38.0
+__pycache__/
+*.pyc
